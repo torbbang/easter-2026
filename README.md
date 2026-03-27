@@ -1,5 +1,7 @@
 # 🐰 Easter Telnet Animation
 
+![Demo](demo.gif)
+
 ASCII art Easter animation served over telnet. A decorated egg cracks open, a bunny emerges, hops across a field of flowers and mini eggs, and finishes with a "Happy Easter! / God påske!" finale — all in 80×24 characters with ANSI color.
 
 ## Quick Start
