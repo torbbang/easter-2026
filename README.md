@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> ## 🚚 This project has moved to [git.torbjorn.dev](https://git.torbjorn.dev/torbbang/easter-2026)
+> This GitHub repository is archived and no longer maintained.
+
+---
+
 # 🐰 Easter Telnet Animation
 
 ![Demo](demo.gif)
